@@ -163,12 +163,12 @@
   <ItemGroup>
     <None Include="docs\Thumbs.db" />
     <None Include="docs\type_example.md" />
-    <None Include="fonts\Roboto-Light-webfont.eot" />
-    <None Include="fonts\Roboto-Light-webfont.ttf" />
-    <None Include="fonts\Roboto-Light-webfont.woff" />
-    <None Include="fonts\Roboto-Regular-webfont.eot" />
-    <None Include="fonts\Roboto-Regular-webfont.ttf" />
-    <None Include="fonts\Roboto-Regular-webfont.woff" />
+    <Content Include="fonts\Roboto-Light-webfont.eot" />
+    <Content Include="fonts\Roboto-Light-webfont.ttf" />
+    <Content Include="fonts\Roboto-Light-webfont.woff" />
+    <Content Include="fonts\Roboto-Regular-webfont.eot" />
+    <Content Include="fonts\Roboto-Regular-webfont.ttf" />
+    <Content Include="fonts\Roboto-Regular-webfont.woff" />
     <Content Include="less\bootstrap.less" />
     <Content Include="less\bootstrap\layouts.less" />
     <Content Include="less\bootstrap\mixins.less" />
