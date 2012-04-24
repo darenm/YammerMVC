@@ -5,3 +5,10 @@ c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\bin\Ent
 c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\obj\Debug\YammerMVC.csprojResolveAssemblyReference.cache
 c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\obj\Debug\YammerMVC.dll
 c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\obj\Debug\YammerMVC.pdb
+C:\prj\YammerMVC\YammerMVC\bin\YammerMVC.dll
+C:\prj\YammerMVC\YammerMVC\bin\YammerMVC.pdb
+C:\prj\YammerMVC\YammerMVC\bin\EntityFramework.dll
+C:\prj\YammerMVC\YammerMVC\bin\EntityFramework.xml
+C:\prj\YammerMVC\YammerMVC\obj\Debug\YammerMVC.csprojResolveAssemblyReference.cache
+C:\prj\YammerMVC\YammerMVC\obj\Debug\YammerMVC.dll
+C:\prj\YammerMVC\YammerMVC\obj\Debug\YammerMVC.pdb
