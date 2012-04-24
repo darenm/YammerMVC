@@ -1,0 +1,7 @@
+c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\bin\YammerMVC.dll
+c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\bin\YammerMVC.pdb
+c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\bin\EntityFramework.dll
+c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\bin\EntityFramework.xml
+c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\obj\Debug\YammerMVC.csprojResolveAssemblyReference.cache
+c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\obj\Debug\YammerMVC.dll
+c:\users\daren\documents\visual studio 2010\Projects\YammerMVC\YammerMVC\obj\Debug\YammerMVC.pdb
